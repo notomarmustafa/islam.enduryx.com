@@ -36,45 +36,52 @@ h1 {
         margin-right: 40%;
     }
   }
+
+@media (max-width: 1284) {
+    .container {
+        margin-left: 45%;
+        margin-right: 40%;
+    }
+}
   
-  @media (max-width: 1024px) {
+@media (max-width: 1024px) {
     .container {
         margin-left: 425px;
         margin-right: 200px;
     }
-  }
+}
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     .container {
         margin-left: 290px;
         margin-right: 200px;
     }
-  }
+}
   
-  @media (max-width: 580px) {
+@media (max-width: 580px) {
     .container {
         margin-left: 425px;
         margin-right: 200px;
     }
-  }
+}
   
-  @media (max-width: 425px) {
+@media (max-width: 425px) {
     .container {
         margin-left: 27%;
         margin-right: 10%;
     }
-  }
+}
   
-  @media (max-width: 375px) {
+@media (max-width: 375px) {
     .container {
         margin-left: 23%;
         margin-right: 10%;
     }
-  }
+}
   
-  @media (max-width: 320px) {
+@media (max-width: 320px) {
     .container {
         margin-left: 19%;
         margin-right:5%;
     }
-  } 
+} 
