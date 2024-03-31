@@ -15,6 +15,13 @@
     --sixth--color: #81EE96;
     --stars-color: #ff523b;
 }
+
+::-webkit-scrollbar { width: 0; }
+
+::-webkit-scrollbar-track { background-color: var(--second-bg-color); }
+
+::-webkit-scrollbar-thumb { background-color: var(--second-bg-color); }
+
   /* HEADER BEGINNING */
   * {
     margin: 0;
