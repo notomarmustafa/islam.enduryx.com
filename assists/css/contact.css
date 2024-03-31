@@ -29,6 +29,10 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
   }
+
+  html {
+    overflow-x: hidden;
+  }
   
   body {
   background-size: cover;
