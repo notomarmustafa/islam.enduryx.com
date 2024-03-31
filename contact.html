@@ -104,13 +104,13 @@ input[type=submit]:hover {
 <div class="container">
   <form action="" method="">
     <label for="fname" style="color: white;">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your first name...">
+    <input type="text" id="fname" name="firstname" required placeholder="Your first name...">
 
     <label for="lname" style="color: white;">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name...">
+    <input type="text" id="lname" name="lastname" required placeholder="Your last name...">
 
     <label for="country" style="color: white;">Country</label>
-    <select class="form-select" id="country" name="country">
+    <select class="form-select" id="country" name="country" required>
       <option>select country</option>
       <option value="AF">Afghanistan</option>
       <option value="AX">Aland Islands</option>
@@ -366,7 +366,7 @@ input[type=submit]:hover {
   </select>
 
     <label for="subject" style="color: white;">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something..." style="height:200px"></textarea>
+    <textarea id="subject" name="subject" required placeholder="Write something..." style="height:200px"></textarea>
 
     <input type="submit" value="Submit">
   </form>
