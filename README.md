@@ -23,7 +23,7 @@ Get ready for an adventure of learning and exploration! Here's what you'll find 
 - **Access for All**: Our site is designed to be inclusive and accessible to everyone.
 
 ## 💻 Getting Started
-Ready to embark on your Islamic journey? Click [here](#) to visit our website and start exploring!
+Ready to embark on your Islamic journey? Click [here](https://islam.enduryx.com) to visit our website and start exploring!
 
 ## 🎉 Contributions
 Join us in spreading knowledge and joy! Whether you're a coding wizard or a content guru, your contributions are invaluable. Here's how you can get involved:
